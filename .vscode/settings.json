@@ -1,0 +1,13 @@
+{
+    // 将 clang-format 设为 C++ 文件的默认格式化器
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    // 将 clang-format 设为 C 文件的默认格式化器（如果也写 C）
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    // 开启“保存时自动格式化”
+    "editor.formatOnSave": true,
+    "C_Cpp.clang_format_style": "file"
+}
