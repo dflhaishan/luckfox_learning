@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step6/build/CMakeFiles/_CMakeLTOTest-C/src/main.c
+

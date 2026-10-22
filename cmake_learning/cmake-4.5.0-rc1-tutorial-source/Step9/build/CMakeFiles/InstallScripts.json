@@ -1,0 +1,16 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/build/cmake_install.cmake",
+		"/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/build/Tutorial/cmake_install.cmake",
+		"/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/build/Tests/cmake_install.cmake",
+		"/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/build/MathFunctions/cmake_install.cmake",
+		"/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/build/MathFunctions/MathLogger/cmake_install.cmake",
+		"/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/build/MathFunctions/MathExtensions/cmake_install.cmake",
+		"/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/build/MathFunctions/MathExtensions/OpAdd/cmake_install.cmake",
+		"/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/build/MathFunctions/MathExtensions/OpMul/cmake_install.cmake",
+		"/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/build/MathFunctions/MathExtensions/OpSub/cmake_install.cmake",
+		"/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/build/MathFunctions/MakeTable/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

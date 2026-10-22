@@ -1,0 +1,6 @@
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step11/SimpleTest/build/CMakeFiles/edit_cache.dir
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step11/SimpleTest/build/CMakeFiles/rebuild_cache.dir
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step11/SimpleTest/build/CMakeFiles/list_install_components.dir
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step11/SimpleTest/build/CMakeFiles/install.dir
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step11/SimpleTest/build/CMakeFiles/install/local.dir
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step11/SimpleTest/build/CMakeFiles/install/strip.dir

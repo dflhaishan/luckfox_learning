@@ -1,0 +1,2 @@
+"/usr/bin/gcc-ar-16" qc libMathFunctions.a CMakeFiles/MathFunctions.dir/MathFunctions.cxx.o MathExtensions/OpAdd/CMakeFiles/OpAdd.dir/OpAdd.cxx.o MathExtensions/OpMul/CMakeFiles/OpMul.dir/OpMul.cxx.o MathExtensions/OpSub/CMakeFiles/OpSub.dir/OpSub.cxx.o
+"/usr/bin/gcc-ranlib-16" libMathFunctions.a

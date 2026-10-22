@@ -1,0 +1,19 @@
+Start testing: Oct 21 21:07 CST
+----------------------------------------------------------
+3/4 Testing: sqrt
+3/4 Test: sqrt
+Command: "/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step8/build/Tests/TestMathFunctions" "sqrt"
+Directory: /home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step8/build/Tests
+"sqrt" start time: Oct 21 21:07 CST
+Output:
+----------------------------------------------------------
+INFO: Computed sqrt of 25 to be 5 with GNU-builtins
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"sqrt" end time: Oct 21 21:07 CST
+"sqrt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 21 21:07 CST

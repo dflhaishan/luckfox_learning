@@ -1,0 +1,12 @@
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/install/bin/Tutorial
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/install/lib/libMathFunctions.a
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/install/include/MathFunctions.h
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/install/include/OpAdd.h
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/install/include/OpMul.h
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/install/include/OpSub.h
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/install/include/SqrtTable.h
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/install/lib/cmake/Tutorial/TutorialTargets.cmake
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/install/lib/cmake/Tutorial/TutorialTargets-noconfig.cmake
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/install/lib/cmake/Tutorial/TutorialConfig.cmake
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/install/lib/cmake/Tutorial/TutorialConfigVersion.cmake
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step9/install/lib/cmake/Tutorial/TutorialConfig.cmake

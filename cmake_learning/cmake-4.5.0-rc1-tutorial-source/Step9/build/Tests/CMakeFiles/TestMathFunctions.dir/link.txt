@@ -1,0 +1,1 @@
+/usr/bin/c++ -flto=auto -fno-fat-lto-objects CMakeFiles/TestMathFunctions.dir/TestMathFunctions.cxx.o -o TestMathFunctions  ../MathFunctions/libMathFunctions.a

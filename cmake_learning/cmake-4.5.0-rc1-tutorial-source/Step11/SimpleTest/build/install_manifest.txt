@@ -1,0 +1,6 @@
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step11/install/include/SimpleTest.h
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step11/install/lib/cmake/SimpleTest/SimpleTestTargets.cmake
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step11/install/lib/cmake/SimpleTest/simpletest_discover_impl.cmake
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step11/install/lib/cmake/SimpleTest/simpletest_discover_tests.cmake
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step11/install/lib/cmake/SimpleTest/SimpleTestConfig.cmake
+/home/jhs/dflhaishan/luckfox_learning/cmake_learning/cmake-4.5.0-rc1-tutorial-source/Step11/install/lib/cmake/SimpleTest/SimpleTestConfigVersion.cmake
