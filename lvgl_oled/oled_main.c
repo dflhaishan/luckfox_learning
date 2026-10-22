@@ -89,7 +89,7 @@ int main(int argc, char* argv[])
     lv_tick_set_cb(tick_get_cb);
     lv_display_t* display = lv_display_create(var.xres, var.yres);
 
-    size_t buf_px = var.xres * (var.yres / 10);
+    size_t buf_px = var.xres * var.yres;
     size_t buf_bytes = buf_px * sizeof(lv_color_t);
     void* lv_buf = malloc(buf_bytes);
     if (!lv_buf) {
@@ -98,16 +98,15 @@ int main(int argc, char* argv[])
         return -1;
     }
 
-    lv_display_set_buffers(display, lv_buf, NULL, buf_bytes, LV_DISPLAY_RENDER_MODE_PARTIAL);
+    lv_display_set_buffers(display, lv_buf, NULL, buf_bytes, LV_DISPLAY_RENDER_MODE_DIRECT);
     lv_display_set_flush_cb(display, fbdev_flush);
 
     if (var.bits_per_pixel == 8) {
         lv_display_set_color_format(display, LV_COLOR_FORMAT_I1);
     }
 
-    lv_obj_t* label = lv_label_create(lv_screen_active());
-    lv_label_set_text(label, "Hello OLED\n adcdef");
-    lv_obj_center(label);
+    lv_obj_t* label1 = lv_label_create(lv_screen_active());
+    lv_label_set_text(label1, "hello world.");
 
     while (1) {
         uint32_t idle = lv_timer_handler();
