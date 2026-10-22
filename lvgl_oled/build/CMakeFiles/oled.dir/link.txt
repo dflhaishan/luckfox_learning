@@ -1,0 +1,1 @@
+/home/jhs/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc CMakeFiles/oled.dir/oled_main.c.o -o oled  lib/liblvgl.a lib/liblvgl_examples.a lib/liblvgl.a

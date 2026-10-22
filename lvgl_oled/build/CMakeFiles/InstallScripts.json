@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/jhs/dflhaishan/luckfox_learning/lvgl_oled/build/cmake_install.cmake",
+		"/home/jhs/dflhaishan/luckfox_learning/lvgl_oled/build/lvgl/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
